@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/Day3/Page_OrangeHRM/input_Submit')
 
 WebUI.closeBrowser()
 
+WebUI.closeBrowser()
+
