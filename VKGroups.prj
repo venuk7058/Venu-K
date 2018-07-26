@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>vk group TC automation</description>
+   <name>VKGroups</name>
+   <tag></tag>
+   <UUID>da2817ab-a9d7-4e3c-8ea0-71cb0e715fe0</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

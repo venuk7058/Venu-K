@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Day3,Firefox 62.0,,2018-07-26 15:19:02,2018-07-26 15:19:38,36.802s,PASSED
+,,,,,,
+Test Cases/Day3/Test2,Firefox 62.0,,2018-07-26 15:19:02,2018-07-26 15:19:38,36.485s,PASSED
+openBrowser,Firefox 62.0,,2018-07-26 15:19:02,2018-07-26 15:19:28,25.846s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-26 15:19:28,2018-07-26 15:19:33,4.894s,PASSED
+click,Firefox 62.0,,2018-07-26 15:19:33,2018-07-26 15:19:33,0.277s,PASSED
+setText,Firefox 62.0,,2018-07-26 15:19:33,2018-07-26 15:19:33,0.064s,PASSED
+setEncryptedText,Firefox 62.0,,2018-07-26 15:19:33,2018-07-26 15:19:34,0.248s,PASSED
+click,Firefox 62.0,,2018-07-26 15:19:34,2018-07-26 15:19:36,2.433s,PASSED
+closeBrowser,Firefox 62.0,,2018-07-26 15:19:36,2018-07-26 15:19:36,0.295s,PASSED

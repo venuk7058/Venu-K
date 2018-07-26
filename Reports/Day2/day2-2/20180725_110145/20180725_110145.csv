@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+day2-2,Firefox 62.0,,2018-07-25 11:02:21,2018-07-25 11:02:57,36.536s,PASSED
+,,,,,,
+Test Cases/DaY 2/Test2_global,Firefox 62.0,Test2,2018-07-25 11:02:21,2018-07-25 11:02:57,36.172s,PASSED
+openBrowser,Firefox 62.0,,2018-07-25 11:02:22,2018-07-25 11:02:49,27.007s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-25 11:02:49,2018-07-25 11:02:54,5.537s,PASSED
+setText,Firefox 62.0,,2018-07-25 11:02:54,2018-07-25 11:02:54,0.101s,PASSED
+setText,Firefox 62.0,,2018-07-25 11:02:54,2018-07-25 11:02:54,0.053s,PASSED
+click,Firefox 62.0,,2018-07-25 11:02:54,2018-07-25 11:02:55,0.751s,PASSED
+closeBrowser,Firefox 62.0,,2018-07-25 11:02:55,2018-07-25 11:02:55,0.250s,PASSED

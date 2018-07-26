@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="orangeHRM" time="62" tests="1" failures="0" errors="0">
+   <testsuite name="orangeHRM" tests="1" failures="0" errors="0" time="62" timestamp="2018-07-24 15:51:06" hostname="slk - wslk1fftrfw-10" id="Test Suites/orangeHRM">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_155105"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_155105\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - wslk1fftrfw-10"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.19"/>
+         <property name="sessionId" value="4f3917c16cc8198057e16d77a7603ff4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/OrangeHRM1/OrangeHRM" classname="Test Cases/OrangeHRM1/OrangeHRM" status="PASSED">
+         <system-out><![CDATA[2018-07-24 15:51:06 - [TEST_CASE][PASSED] - Test Cases/OrangeHRM1/OrangeHRM: Test Cases/OrangeHRM1/OrangeHRM
+
+2018-07-24 15:51:07 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 15:51:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 15:51:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 15:51:34 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 15:51:34 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 15:51:34 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 15:51:34 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 15:51:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 15:51:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 15:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 15:51:38 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2018-07-24 15:51:48 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-07-24 15:51:48 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present
+
+2018-07-24 15:51:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-24 15:51:48 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present
+
+2018-07-24 15:51:48 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Leave' is present
+
+2018-07-24 15:51:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-24 15:51:48 - [MESSAGE][PASSED] - Object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Leave' is present
+
+2018-07-24 15:51:48 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2018-07-24 15:51:57 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-07-24 15:51:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Recruitment' is clicked on
+
+2018-07-24 15:52:00 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Recruitment' is clicked on
+
+2018-07-24 15:52:00 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-07-24 15:52:05 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-07-24 15:52:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Performance' is clicked on
+
+2018-07-24 15:52:05 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Performance' is clicked on
+
+2018-07-24 15:52:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Dashboard' is clicked on
+
+2018-07-24 15:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Dashboard' is clicked on
+
+2018-07-24 15:52:06 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-24 15:52:06 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-24 15:52:06 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-24 15:52:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 15:51:06 - [TEST_SUITE][PASSED] - orangeHRM: Test Cases/OrangeHRM1/OrangeHRM]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

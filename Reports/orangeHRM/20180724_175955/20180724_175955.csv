@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+orangeHRM,Firefox 62.0,,2018-07-24 17:59:56,2018-07-24 18:01:06,1m - 9.478s,INCOMPLETE
+,,,,,,
+Test Cases/OrangeHRM1/OrangeHRM,Firefox 62.0,OrangeHRM,2018-07-24 17:59:57,2018-07-24 18:01:06,1m - 9.148s,FAILED
+openBrowser,Firefox 62.0,,2018-07-24 17:59:57,2018-07-24 18:00:23,25.999s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-24 18:00:23,2018-07-24 18:00:29,5.532s,PASSED
+setText,Firefox 62.0,,2018-07-24 18:00:29,2018-07-24 18:00:29,0.108s,PASSED
+setEncryptedText,Firefox 62.0,,2018-07-24 18:00:29,2018-07-24 18:00:29,0.258s,PASSED
+click,Firefox 62.0,,2018-07-24 18:00:29,2018-07-24 18:00:32,2.612s,PASSED
+delay,Firefox 62.0,,2018-07-24 18:00:32,2018-07-24 18:00:42,10.021s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-24 18:00:42,2018-07-24 18:01:04,21.966s,FAILED

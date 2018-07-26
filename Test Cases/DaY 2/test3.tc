@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f01d54e4-972c-41ab-b001-976af66f4a58</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c7daa69-9a75-4cc1-b8c7-f49680ad5930</id>
+      <masked>false</masked>
+      <name>un</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0a4811d-7e5f-4968-857b-e681a7e41cf9</id>
+      <masked>false</masked>
+      <name>pw</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1852446-da82-4407-b8e7-d5a55c581d73</id>
+      <masked>false</masked>
+      <name>un1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>282206c4-1463-45a4-89f3-448c226fb27f</id>
+      <masked>false</masked>
+      <name>pw1</name>
+   </variable>
+</TestCaseEntity>

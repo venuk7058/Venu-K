@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="orangeHRM" time="76" tests="0" failures="1" errors="0">
+   <testsuite name="orangeHRM" tests="0" failures="1" errors="0" time="76" timestamp="2018-07-24 17:43:56" hostname="slk - wslk1fftrfw-10" id="Test Suites/orangeHRM">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355\\1532434509661.png, C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355\\1532434509964.png"/>
+         <property name="hostName" value="slk - wslk1fftrfw-10"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.19"/>
+         <property name="sessionId" value="22372a6c4aa0614f1f0571c0753275f2"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/OrangeHRM1/OrangeHRM" classname="Test Cases/OrangeHRM1/OrangeHRM" status="FAILED">
+         <failure type="FAILED" message="Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)"/>
+         <system-out><![CDATA[2018-07-24 17:43:57 - [TEST_CASE][FAILED] - Test Cases/OrangeHRM1/OrangeHRM: Test Cases/OrangeHRM1/OrangeHRM FAILED because (of) Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)
+
+2018-07-24 17:43:57 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-24 17:44:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-24 17:44:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 17:44:26 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-24 17:44:26 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 17:44:26 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtUsername'
+
+2018-07-24 17:44:26 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 17:44:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OrangeHRM/Page_OrangeHRM/input_txtPassword'
+
+2018-07-24 17:44:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 17:44:28 - [MESSAGE][PASSED] - Object: 'Object Repository/OrangeHRM/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-24 17:44:28 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2018-07-24 17:44:38 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-07-24 17:44:38 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)
+
+2018-07-24 17:44:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-24 17:45:09 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355\\1532434509661.png]]
+
+2018-07-24 17:45:10 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)
+[[ATTACHMENT|C:\\Users\\slk.WSLK1FFTRFW-10.006\\Katalon Studio\\VKGroups\\Reports\\orangeHRM\\20180724_174355\\1532434509964.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-24 17:43:57 - [TEST_CASE][FAILED] - Test Cases/OrangeHRM1/OrangeHRM: Test Cases/OrangeHRM1/OrangeHRM FAILED because (of) Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-24 17:43:56 - [TEST_SUITE][FAILED] - orangeHRM: Test Cases/OrangeHRM1/OrangeHRM FAILED because (of) Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-07-24 17:43:56 - [TEST_SUITE][FAILED] - orangeHRM: Test Cases/OrangeHRM1/OrangeHRM FAILED because (of) Unable to verify object 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/OrangeHRM/Page_OrangeHRM/b_Admin' located by 'By.xpath: //b[(text() = 'Admin' or . = 'Admin')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test5_inputform</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3101b93-e786-4409-939c-1a5c738646c6</testCaseGuid>
+   <variable>
+      <defaultValue>'Venu'</defaultValue>
+      <description></description>
+      <id>9feabeb3-da8a-4f20-8f44-58d70f2b8bfb</id>
+      <masked>false</masked>
+      <name>Abc</name>
+   </variable>
+</TestCaseEntity>
